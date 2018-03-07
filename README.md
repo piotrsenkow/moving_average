@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/piotrsenkow/moving_average.svg?branch=master)](https://travis-ci.org/piotrsenkow/moving_average)
 
 # Moving Average Scala 
 **by Piotr Senkow**
